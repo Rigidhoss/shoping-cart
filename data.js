@@ -23,7 +23,7 @@ let productsDB=[{
         desc : "Lorem ipsum dolor sit, a elit" ,
 
         size:'meduim',
-        imgUrl:'/images/watch.jpg',
+        imgUrl:'watch.jpg',
         qty:1,
         isMe:"N",
         },
@@ -32,7 +32,7 @@ let productsDB=[{
           title:'laptop item',
           desc : "Lorem ipsum dolor sit, a elit" ,
           size:'large',
-          imgUrl:'/images/laptop.jpg', 
+          imgUrl:'laptop.jpg', 
           qty:1,
           isMe:"N",
           },];
